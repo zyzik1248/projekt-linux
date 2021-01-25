@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "img": "logo_mint",
+      "title": "mint",
+      "text": "Mint skierowany jest dla początkujących użytkowników, a jego twórcy od zawsze opierali swoje decyzje, dotyczące rozwoju dystrybucji, na opiniach swoich użytkowników. Skupia się on na stworzeniu systemu użytecznego i bardziej efektywnego. Przeznaczonego do codziennych zadań wykonywanych przez zwykłych użytkowników. Zapewnia także ogromny zbiór dostępnego oprogramowania oraz zintegrowanych usług. To jedne z głównych powodów popularności tej dystrybucji Linuksa."
+    },
+    {
+      "id": 2,
+      "img": "logo_ubuntu",
+      "title": "ubuntu",
+      "text": "kompletna dystrybucja systemu operacyjnego GNU/Linux, przeznaczona głównie do zastosowań biurowych i domowych (ang. desktop). Powstała również wersja serwerowa oraz na netbooki. Rozwój tej ostatniej zakończył się w 2011 roku, gdyż zdecydowano o połączeniu wydań dla komputerów biurowych i domowych z wersją dla netbooków, jednocześnie dodając nową powłokę graficzną – Unity – będącą nakładką na popularnego GNOME. "
+    },
+    {
+      "id": 3,
+      "img": "logo_fedora",
+      "title": "fedora",
+      "text": "Dystrybucja jest kontynuacją Red Hat Linux rozwijaną przez Fedora Project, natomiast finansowano wspieraną przez Red Hat. Celem jej twórców było stworzenie użytecznego programu operacyjnego w oparciu o wolne oprogramowanie rozpowszechniane na licencji GNU GPL. W ramach tej dystrybucji użytkownik uzyska pełne wsparcie dla druku 3D oraz podstawowy pakiet programów. Co ciekawe, Fedora to system, z którego korzysta twórca Linuksa - Linus Torvalds."
+    }
+  ]
+}

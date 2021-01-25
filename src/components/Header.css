@@ -1,0 +1,24 @@
+.Header {
+  max-width:100%;  /* added */
+  width: 100vw;
+  height: 75px;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: #113b51;
+  padding: 0 120px;
+}
+
+.Header-logo {
+  position: absolute;
+  height: 95px;
+  left: 20px;
+  cursor: pointer;
+}
+
+.Header-text {
+  margin: 0;
+  padding: 0;
+  color: white;
+  line-height: 75px;
+}

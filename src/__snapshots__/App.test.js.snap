@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot home page 1`] = `
+<div
+  className="Home"
+  id="home"
+>
+  <div
+    className="Home-info"
+  >
+    <p
+      className="Home-big-text"
+    >
+      Wszystko o linuxie
+    </p>
+    <p
+      className="Home-small-text"
+    >
+      Na tej stronie dowiesz się ciekawych informacji na temat tego systemu
+    </p>
+  </div>
+</div>
+`;

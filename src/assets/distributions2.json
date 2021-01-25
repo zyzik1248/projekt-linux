@@ -1,0 +1,17 @@
+{
+  "count": 3,
+  "data": [
+    {
+      "title": "openSUSE",
+      "text": "To stabilna i wszechstronna dystrybucja przeznaczona zarówno dla początkujących jak i zaawansowanych użytkowników. Jej zaletą jest kilkadziesiąt graficznych modułów umożliwiających konfigurację systemu. Koncentruje się nie tylko na łatwości użytkowania, ale również na bezpieczeństwie. Dystrybucja korzysta z menedżera pakietów YAST i pakietów RPM. Użytkownik ma do wyboru kolekcję pakietów, które może zainstalować za pomocą przyjaznego kreatora."
+    },
+    {
+      "title": "debian",
+      "text": "Debian to jedna z najstarszych dystrybucji Linuxa, jej początki sięgają 1993 roku. Wiele popularniejszych dystrybucji jest opartych na szkielecie Debiana – są to między innymi Ubuntu, Mint czy też TAILS, system w pełni anonimowy. Debian skupia ogromną liczbę wolontariuszy, którzy rozwijają ten projekt. Nad 10. wersją pracowało ponad 1300 indywidualnych autorów, którzy dopracowywali każdy szczegół nowej wersji systemu. "
+    },
+    {
+      "title": "solus",
+      "text": "To dystrybucja, która jest tworzona od zera przez grupę entuzjastów, co oznacza, że nie ma nad sobą nadrzędnych systemów, które narzucałyby swoje aktualizacje. Przeznaczona jest głównie dla użytkowników komputerów stacjonarnych. Jej twórcy stawiają przede wszystkim na łatwość użytkowania i atrakcyjny interfejs. Co istotne, system działa „out of the box” i jest gotowy do użytkowania zaraz po instalacji."
+    }
+  ]
+}

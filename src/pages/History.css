@@ -1,0 +1,25 @@
+.History {
+  padding: 150px 0;
+  min-height: 85vh;
+  max-width: 50em;
+  margin: 0 auto;
+}
+
+@media only screen and (max-width: 1000px) {
+  .History {
+    padding: 150px 50px;
+  }
+}
+
+.History-small-text {
+  font-family: 'Regular';
+  line-height: 170%;
+  font-size: 18px;
+  margin-bottom: 3vh;
+}
+
+.History h4 {
+  font-family: 'Semibold';
+  line-height: 140%;
+  font-size: 40px;
+}

@@ -1,0 +1,23 @@
+.Question{
+  border: 2px solid #7510F7;
+  padding: 30px;
+  width: 40%;
+  color: white;
+  border-radius: 20px;
+}
+
+.Question-timer{
+  width: 100%;
+  text-align: center;
+  font-size: 24px;
+  margin: 15px;
+  font-weight: bold;
+  color: #7510F7;
+}
+
+
+@media only screen and (max-width: 500px) {
+  .Question {
+    width: 60%;
+  }
+}
